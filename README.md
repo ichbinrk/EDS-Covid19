@@ -1,7 +1,7 @@
 EDS-Covid19
 ==============================
 
-A dashboard to see the spread of corona virus across different countries. Which countries did well, which countries did not. 
+A dynamic-dashboard to see the spread of corona virus across different countries, which countries did well and which countries did not. 
 
 ## Dashboards
 
