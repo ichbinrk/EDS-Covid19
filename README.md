@@ -7,11 +7,11 @@ A dashboard to see the spread of corona virus across different countries. Which 
 
 **1. Virus spread and doubling rate for individual country**
 
-![dashboard_1](https://github.com/ichbinrk/EDS-Covid19/blob/master/reports/figures/Dashboard.png)
+![dashboard_1](https://github.com/ichbinrk/EDS-Covid19/blob/master/reports/figures/Dashboard.PNG)
 
 **2. SIR model - infection and recovery rate for individual country**
 
-![dashboard_2](https://github.com/ichbinrk/EDS-Covid19/blob/master/reports/figures/SIR.png)
+![dashboard_2](https://github.com/ichbinrk/EDS-Covid19/blob/master/reports/figures/SIR.PNG)
 
 Project Organization
 ------------
