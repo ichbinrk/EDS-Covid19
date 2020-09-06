@@ -3,6 +3,16 @@ EDS-Covid19
 
 A dashboard to see the spread of corona virus across different countries. Which countries did well, which countries did not. 
 
+## Dashboards
+
+**1. Virus spread and doubling rate for individual country**
+
+![dashboard_1](https://github.com/ichbinrk/EDS-Covid19/blob/master/reports/figures/Dashboard.png)
+
+**2. SIR model - infection and recovery rate for individual country**
+
+![dashboard_2](https://github.com/ichbinrk/EDS-Covid19/blob/master/reports/figures/SIR.png)
+
 Project Organization
 ------------
 
